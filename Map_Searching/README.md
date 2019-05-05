@@ -8,4 +8,4 @@ c)Uniform Cost Search
 
 d)Iterative Deepening Search
 
-![image1.png]
+![](image1.png)
